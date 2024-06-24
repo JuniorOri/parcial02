@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697738524423",
+    "project_id": "controlgastosapp-9ce8d",
+    "storage_bucket": "controlgastosapp-9ce8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697738524423:android:229887b7e0917146a2f7a2",
+        "android_client_info": {
+          "package_name": "com.example.parcial1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJXStHBHfQZY3So-SOXi7qH1gsNotIn3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
